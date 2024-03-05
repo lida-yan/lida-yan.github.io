@@ -21,7 +21,7 @@ repository               : "lida-yan/lida-yan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lida-photo.png"
+  avatar           : "Lida-photo_square.png"
   name             : "Lida Yan"
   pronouns         : # example: "she/her"  
   bio              : "Post-doctoral Research Associate"
