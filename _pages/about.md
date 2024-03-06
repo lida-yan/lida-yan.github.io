@@ -13,6 +13,8 @@ Driven by a passion for sustainable technology, my research strides across the r
 
 Let's connect and innovate together.
 
-# For more details of my background, you can find my CV here: [CV]
 
 
+<!---
+For more details of my background, you can find my CV here: [CV]
+-->
